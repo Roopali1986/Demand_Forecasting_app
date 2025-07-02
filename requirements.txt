@@ -4,7 +4,7 @@ numpy
 scikit-learn
 plotly
 openpyxl
-tensorflow
+tensorflow<=2.5.3
 statsmodels
 prophet
 scipy
