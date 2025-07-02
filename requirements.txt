@@ -4,7 +4,7 @@ numpy
 scikit-learn
 plotly
 openpyxl
-tensorflow<=2.5.3
+tensorflow==2.11.0
 statsmodels
-prophet
+prophet==1.1.5
 scipy
