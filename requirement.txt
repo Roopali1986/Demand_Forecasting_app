@@ -1,4 +1,10 @@
 streamlit
 pandas
 numpy
+scikit-learn
 plotly
+openpyxl
+tensorflow
+statsmodels
+prophet
+scipy
